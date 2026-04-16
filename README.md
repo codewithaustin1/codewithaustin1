@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=90" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=M.%20Austin&fontSize=90" />
+</p>
 
 # Hi there, I'm M. Austin 👋 
 
@@ -40,6 +41,6 @@
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[YOUR_LINKEDIN_URL]](https://www.linkedin.com/in/austin-makachola-820a4a1a2/)))
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([[YOUR_TWITTER_URL]](https://x.com/AustinMakachola))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([[YOUR_PORTFOLIO_URL]](https://smartinvoice-kenya.onrender.com/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-makachola-820a4a1a2/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AustinMakachola)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://smartinvoice-kenya.onrender.com/)
