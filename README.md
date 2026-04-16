@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color="white"&height=200&section=header&text=M.%20Austin&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=M.%20Austin&fontSize=90" />
 </p>
 
 # Hi there, I'm M. Austin 👋 
