@@ -4,11 +4,11 @@
 
 # Hi there, I'm Mr. M. Austin 👋 
 
-### 🚀 Full-Stack Web Developer | React & Node.js
+### Full-Stack Web Developer | React & Node.js
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,10 +28,10 @@
 
 ---
 
-### 🛠️ Currently Working On
+### Current project 
 - 🔭 I’m currently working on **SmartInvoice**
-- 🌱 I’m currently learning **AI integration, Rust**
-- 💬 Ask me about **React, CSS architecture, or UI/UX**
+- 🌱 Exploring **AI integration, Rust**
+- 💬 Let's converse **React, CSS architecture, or UI/UX**
 - 📫 How to reach me: **upfrontretaile@gmail.com**
 
 ---
