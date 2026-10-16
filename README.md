@@ -4,7 +4,7 @@
 
 # Hi there, I'm Mr. M. Austin 👋 
 
-### Data Analyst & Full-Stack Web Developer | R (core), React (core) & Node.js
+### Data Analyst & Full-Stack Builder | R (core), React (core) & Node.js
 
 ---
 
